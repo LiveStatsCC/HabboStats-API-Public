@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "name": "Habbo Quests",
+        "shortcode": "habboquests",
+        "aliases": ["quests"],
+        "stream": "https://habboquests.radioca.st/stream",
+        "website": "https://habboquests.co",
+        "logo": "https://cdn.radiostats.online/HabboQuests.png",
+        "hex": "#36a4ba",
+        "api": {
+            "url": "https://api.obobby.gg/radio/habboquests",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Vibe Habbo",
+        "shortcode": "vibehabbo",
+        "aliases": ["vibe"],
+        "stream": "https://live.vibehabbo.com",
+        "website": "https://vibehabbo.com",
+        "logo": "https://cdn.radiostats.online/VibeHabbo.png",
+        "hex": "#d16262",
+        "api": {
+            "url": "https://api.obobby.gg/radio/vibehabbo",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Wish Habbo",
+        "shortcode": "wishhabbo",
+        "aliases": ["wish"],
+        "stream": "https://derrick.xonosho.st/radio/8170/radio.mp3",
+        "website": "https://wishhabbo.com",
+        "logo": "https://cdn.radiostats.online/WishHabbo.png",
+        "hex": "#8056ba",
+        "api": {
+            "url": "https://api.obobby.gg/radio/wishhabbo",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+        {
+        "id": 2,
+        "name": "Wish Habbo",
+        "shortcode": "wishhabbo",
+        "aliases": ["wish"],
+        "stream": "https://derrick.xonosho.st/radio/8170/radio.mp3",
+        "website": "https://wishhabbo.com",
+        "logo": "https://cdn.radiostats.online/WishHabbo.png",
+        "hex": "#8056ba",
+        "api": {
+            "url": "https://api.obobby.gg/radio/wishhabbo",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    }
+]
